@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to MosaicComposer
 
-You can use the [editor on GitHub](https://github.com/LeonidKokhnovich/mosaic-composer-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+MosaicComposer is a mobile app that generates stunning mosaic photos in just few simple steps. It's available for install directly from App Store.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is mosaic?
 
-### Markdown
+Photomosaic (a portmanteau of photo and mosaic), is a picture (usually a photograph) that has been divided into (usually equal sized) tiled sections, each of which is replaced with another photograph that matches the target photo. When viewed at low magnifications, the individual pixels appear as the primary image, while close examination reveals that the image is in fact made up of many hundreds or thousands of smaller images. Most of the time they are a computer-created type of montage.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LeonidKokhnovich/mosaic-composer-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Original resource: https://en.wikipedia.org/wiki/Photographic_mosaic
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Contact support via email: mosaiccomposer@gmail.com
+
+Thank you for using MosaicComposer! 
